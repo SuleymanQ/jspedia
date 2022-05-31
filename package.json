@@ -1,0 +1,20 @@
+{
+  "name": "jspedia",
+  "version": "0.0.1",
+  "description": "JavaScript helper functions",
+  "type": "module",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuleymanQ/jspedia.git"
+  },
+  "keywords": [],
+  "author": "Suleyman <suleyman91002@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuleymanQ/jspedia/issues"
+  },
+  "homepage": "https://github.com/SuleymanQ/jspedia#readme",
+  "dependencies": {
+  }
+}
