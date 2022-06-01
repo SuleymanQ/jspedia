@@ -1,6 +1,6 @@
 {
   "name": "jspedia",
-  "version": "0.0.32",
+  "version": "0.0.42",
   "description": "JavaScript helper functions",
   "type": "module",
   "main": "src/index.js",
